@@ -44,5 +44,11 @@ A React-based frontend application for managing stock exchanges and stocks. This
 ```bash
 git clone https://github.com/YourUsername/stock-exchange-frontend.git
 cd stock-exchange-frontend
+```
 
+2. Build and run the app:
 
+```
+npm install
+npm start
+```
